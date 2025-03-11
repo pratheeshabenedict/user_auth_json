@@ -36,5 +36,5 @@ function authenticate(username,password){
         console.log("Invalid credentials");
     }
 }
-register("Pratheesha","smile19:):)");
+register("Pratheesha","123");
 authenticate("john_doe","password123");
